@@ -13,5 +13,3 @@ Enable-ScheduledTask -TaskName "WindowsGUIWindowbullshit"
 
 
 Start-ScheduledTask -TaskName "WindowsGUIWindowbullshit"
-
-exit
